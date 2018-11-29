@@ -13,3 +13,6 @@ satellite image.
 2)the above run to pan_sharp.py to get the pansharped image.
 3)ndvi_calculation.py outputs the landsat ndvi
 4)the folder src has segmnetation codes which output the Final result.
+
+link to input images- https://drive.google.com/open?id=11FNj5cPnBAitDH_ZhIn-KNcLoE-VJAJA
+link to output images - https://drive.google.com/open?id=1J_mu81S2pHK_1QYQRCchCliCwaputiVC
