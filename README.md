@@ -1,5 +1,5 @@
 # Team 17 : Given a satellite image, estimate the amount of green cover
-Anirudh Reddy 20161196
+Avinash Nunna 20161176
 Nikhilendra Atheti 20161054
 
 This project presents a technique to estimate the amount of green cover and urban cover when a satellite image is given. 
